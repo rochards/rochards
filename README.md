@@ -1,13 +1,12 @@
 ## Olá, eu sou o Rodrigo :wave:!
 
 ### Atualmente estou estudando:
-- HTML5;
-- CSS3;
-- JavaScript;
-- TypeScript;
-- Angular;
+- Kotlin;
 - Java 11;
-- Spring
+- Spring;
+- Micronaut;
+- gRPC;
+- Docker;
 - SQL;
 
 ### Conecte-se comigo:
