@@ -1,13 +1,9 @@
 ## Olá, eu sou o Rodrigo :wave:!
 
 ### Atualmente estou estudando:
-- Kotlin;
 - Java 11;
 - Spring;
-- Micronaut;
-- gRPC;
-- Docker;
-- SQL;
+- DynamoDB;
 
 ### Conecte-se comigo:
 
