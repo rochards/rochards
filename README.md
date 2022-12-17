@@ -1,17 +1,17 @@
-## Olá, eu sou o Rodrigo :wave:!
+## Hi, I'm Rodrigo :wave:!
 
-### Atualmente estou estudando:
+### Currently, I'm studying:
 - Java 11;
-- Spring;
-- AWS (DynamoDB, RDS, ECS, Fargate, SNS, SQS);
+- Spring Framework;
+- AWS (DynamoDB, RDS, EC2, ECS, Fargate, SNS, SQS, Lambda, API Gateway, Cloud Watch, X-Ray, IAM);
 
-### Conecte-se comigo:
+### Contact me:
 
 [<img align="left" alt="rodrigo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
-### Linguagens e Ferramentas:
+### Tools and Programming Languages:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-Obrigado ao [codeSTACKr] e ao [anuraghazra] pelas dicas de customização desta página.
+Special thanks to [codeSTACKr] and [anuraghazra] for how customizing this page.
 
 ---
 
