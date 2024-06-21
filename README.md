@@ -2,6 +2,7 @@
 
 ### Currently, I'm studying:
 - Java 11, Java 17;
+- Go language
 - OAuth 2.0 and OpenID Connect;
 - Spring Framework;
 - AWS (DynamoDB, RDS, EC2, ECS, Fargate, SNS, SQS, Lambda, API Gateway, Cloud Watch, X-Ray, IAM);
